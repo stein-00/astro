@@ -1,1 +1,4 @@
-
+steamlit
+numpy
+astropy
+pillow
